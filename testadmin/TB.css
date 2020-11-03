@@ -1,0 +1,16 @@
+﻿input[type='text']
+{
+    width:200px;
+    width:auto;
+    height:35px;
+    border-radius:5px;
+    font-size:18px;
+}
+input[type='submit']
+{
+    border-radius:5px;
+    color:#FFF;
+    background-color:#9999FF;
+    font-size:18px;
+    height:35px;
+}
